@@ -5,6 +5,7 @@ Listado de developers de habla hispana en Twitter basado en el tweet de [Juliana
 
 | Nombre | Twitter |
 | --- | --- |
+| madKoding | [Twitter](https://twitter.com/madKoding) |
 | Juan Mora | [Twitter](https://twitter.com/raicerk) |
 | Juliana Gomez | [Twitter](https://twitter.com/gmzjuliana) |
 | Georgie Palankenstein | [Twitter](https://twitter.com/pctroll) |
